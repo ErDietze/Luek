@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LearnFragmentTableLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="5dp">
+
+    <TableRow
+        android:id="@+id/tableRow1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/tv_settings_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Welche Karten sollen abgefragt werden?"
+            android:textSize="30sp" />
+
+        <ImageView
+            android:id="@+id/iv_settings_exit"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/cross" />
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/tableRow2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <Switch
+            android:id="@+id/switch_settings_autoscroll"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Autoscroll" />
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/tableRow3"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <RadioButton
+            android:id="@+id/radio0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:checked="true"
+            android:text="5 Seconds" />
+
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/tableRow4"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="right">
+
+        <RadioButton
+            android:id="@+id/radio1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:text="10 Seconds" />
+
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/LearnTrMiddle"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="right" >
+
+        <CheckBox
+            android:id="@+id/cb_settings_all"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="right"
+            android:text="Select All" />
+    </TableRow>
+
+    <ListView
+        android:id="@+id/listv_settings"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:choiceMode="multipleChoice"
+        android:clickable="true" >
+
+    </ListView>
+
+</TableLayout>

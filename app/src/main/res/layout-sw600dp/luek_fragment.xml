@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LuekTableLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.LuekFragment"
+    android:weightSum="1">
+
+
+
+
+    <TableLayout
+        android:id="@+id/GameTableLayoutTop"
+        android:layout_width="match_parent"
+        android:layout_height="397dp"
+        android:gravity="center_vertical|center_horizontal">
+
+        <TableRow
+            android:id="@+id/CardRowTop1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:gravity="center_horizontal|center_vertical"></TableRow>
+
+        <TableRow
+            android:id="@+id/CardRowTop2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:gravity="center_horizontal|center_vertical"></TableRow>
+
+        <TableRow
+            android:id="@+id/CardRowTop3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:gravity="center_horizontal|center_vertical"></TableRow>
+    </TableLayout>
+
+    <TableLayout
+        android:id="@+id/GameTableLayoutBottom"
+        android:layout_width="match_parent"
+        android:layout_height="343dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:layout_weight="0.40">
+
+        <TableRow
+            android:id="@+id/CardRowBottom1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:gravity="center_horizontal|center_vertical"></TableRow>
+
+        <TableRow
+            android:id="@+id/CardRowBottom2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:gravity="center_horizontal|center_vertical"></TableRow>
+
+        <TableRow
+            android:id="@+id/CardRowBottom3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:gravity="center_horizontal|center_vertical"
+            android:layout_marginBottom="20dp"></TableRow>
+    </TableLayout>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:elevation="0dp"
+        android:orientation="vertical">
+
+        <Space
+            android:layout_width="80dp"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/btn_lf_reset_tablet"
+            android:layout_width="120dp"
+            android:layout_height="70dp"
+            android:text="@string/reset" />
+
+        <Space
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:visibility="visible" />
+
+        <de.zeitner.android.games.luek.widget.BtnControl
+            android:id="@+id/btn_lf_finished_tablet"
+            android:layout_width="120dp"
+            android:layout_height="70dp"
+            android:text="@string/finished" />
+    </TableRow>
+
+</TableLayout>

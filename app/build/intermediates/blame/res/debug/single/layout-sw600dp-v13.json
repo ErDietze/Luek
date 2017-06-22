@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\stats_fragment.xml",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\layout-sw600dp\\stats_fragment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\learn_fragment.xml",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\layout-sw600dp\\learn_fragment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\main_fragment.xml",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\layout-sw600dp\\main_fragment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\mode_fragment.xml",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\layout-sw600dp\\mode_fragment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\recognize_fragment.xml",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\layout-sw600dp\\recognize_fragment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\settings_fragment.xml",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\layout-sw600dp\\settings_fragment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\activity_main.xml",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\layout-sw600dp\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\luek_fragment.xml",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\layout-sw600dp\\luek_fragment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\settings_list_item.xml",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\layout-sw600dp\\settings_list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\stats_list_item.xml",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\layout-sw600dp\\stats_list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\list_item.xml",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\layout-sw600dp\\list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\language_fragment.xml",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\layout-sw600dp\\language_fragment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\splash_fragment.xml",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\layout-sw600dp\\splash_fragment.xml"
+    }
+]

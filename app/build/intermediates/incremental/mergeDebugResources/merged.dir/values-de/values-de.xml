@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Einstellungen</string>
+    <string name="app_name">Lük</string>
+    <string name="finished">Fertig</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lang_de">de</string>
+    <string name="next">Weiter</string>
+    <string name="reset">Reset</string>
+</resources>

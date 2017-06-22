@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/TableLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+<TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/tv_mode_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="15dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:text="Wähle dein Spiel"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/iv_mode_exit"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/cross" />
+
+    </TableRow>
+
+<Button
+    android:id="@+id/btn_start_learngame"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Lernen" />
+
+<Button
+    android:id="@+id/btn_start_recognizegame"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Abfragetest" />
+
+<Button
+    android:id="@+id/btn_start_luekgame"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Lük" />
+    
+</TableLayout>

@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pfeil_rechts.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable\\pfeil_rechts.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lang_en.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable\\lang_en.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\z.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable\\z.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ampel_gelb.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable\\ampel_gelb.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cross.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable\\cross.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preview.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable\\preview.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fragezeichen.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable\\fragezeichen.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lautsprecher.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable\\lautsprecher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ear.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable\\ear.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lang_de.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable\\lang_de.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stats.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable\\stats.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tick.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable\\tick.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher_round.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pfeil_links.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable\\pfeil_links.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ampel_rot.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable\\ampel_rot.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lang_tr.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable\\lang_tr.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable\\info.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ampel_gruen.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable\\ampel_gruen.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    }
+]

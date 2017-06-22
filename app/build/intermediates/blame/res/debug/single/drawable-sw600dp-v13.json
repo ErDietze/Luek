@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\tick.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable-sw600dp\\tick.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\lang_de.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable-sw600dp\\lang_de.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\preview.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable-sw600dp\\preview.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\ic_launcher_round.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable-sw600dp\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\fragezeichen.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable-sw600dp\\fragezeichen.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\cross.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable-sw600dp\\cross.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\pfeil_links.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable-sw600dp\\pfeil_links.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\z.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable-sw600dp\\z.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\splash.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable-sw600dp\\splash.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\ic_launcher.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable-sw600dp\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\ampel_gruen.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable-sw600dp\\ampel_gruen.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\icon.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable-sw600dp\\icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\lang_tr.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable-sw600dp\\lang_tr.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\ampel_rot.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable-sw600dp\\ampel_rot.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\lang_en.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable-sw600dp\\lang_en.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\ampel_gelb.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable-sw600dp\\ampel_gelb.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\info.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable-sw600dp\\info.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\settings.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable-sw600dp\\settings.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\stats.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable-sw600dp\\stats.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\pfeil_rechts.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable-sw600dp\\pfeil_rechts.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\ear.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable-sw600dp\\ear.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\lautsprecher.png",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\drawable-sw600dp\\lautsprecher.png"
+    }
+]

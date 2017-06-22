@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\layout\\luek_fragment.xml",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\layout\\luek_fragment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\layout\\learn_fragment.xml",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\layout\\learn_fragment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_fragment.xml",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\layout\\main_fragment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings_fragment.xml",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\layout\\settings_fragment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recognize_fragment.xml",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\layout\\recognize_fragment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash_fragment.xml",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\layout\\splash_fragment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\layout\\stats_list_item.xml",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\layout\\stats_list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings_list_item.xml",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\layout\\settings_list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mode_fragment.xml",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\layout\\mode_fragment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\layout\\language_fragment.xml",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\layout\\language_fragment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\layout\\stats_fragment.xml",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\layout\\stats_fragment.xml"
+    }
+]

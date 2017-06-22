@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\raw\\right.mp3",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\raw\\right.mp3"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\res\\merged\\debug\\raw\\wrong.mp3",
+        "source": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\raw\\wrong.mp3"
+    }
+]

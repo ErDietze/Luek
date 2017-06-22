@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LearnFragmentTableLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:id="@+id/LearnTopLinearLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tv_learn_top_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:layout_weight="1"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="LearnFragment Text Sample" />
+
+        <ImageView
+            android:id="@+id/iv_learn_exit"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/cross" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/iv_learn_current_picutre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:adjustViewBounds="true"
+        android:src="@drawable/fragezeichen" />
+
+    <TextView
+        android:id="@+id/tv_learn_picturename"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="TextView"
+        android:textSize="30sp" />
+
+    <TableRow
+        android:id="@+id/LearnTrBottom"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:gravity="center_horizontal|center_vertical" >
+
+        <ImageView
+            android:id="@+id/iv_arrowleft"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:layout_weight="1"
+            android:src="@drawable/pfeil_links" />
+
+        <ImageView
+            android:id="@+id/iv_learn_repeatsound"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:layout_weight="3"
+            android:src="@drawable/lautsprecher" />
+
+        <ImageView
+            android:id="@+id/iv_arrowright"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:layout_weight="1"
+            android:src="@drawable/pfeil_rechts" />
+    </TableRow>
+
+</TableLayout>
