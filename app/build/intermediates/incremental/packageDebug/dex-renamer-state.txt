@@ -1,4 +1,7 @@
-#Wed Jun 21 15:23:41 CEST 2017
-base.0=D\:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Fri Jun 23 10:56:12 CEST 2017
+base.0=D\:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_87b3089060fb8f501767892257d119f1e1006568
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=D\:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.1=D\:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_245b5dfbb4089ab80a09b2488401b292d955c832\\classes.dex
+base.1=D\:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_245b5dfbb4089ab80a09b2488401b292d955c832
+file.0=D\:\\AndroidStudio\\Android-workspace\\Luek\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_87b3089060fb8f501767892257d119f1e1006568\\classes.dex

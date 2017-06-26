@@ -67,20 +67,8 @@
                     "startLine": 7,
                     "startColumn": 4,
                     "startOffset": 290,
-                    "endColumn": 39,
-                    "endOffset": 325
-                },
-                "from": {
-                    "file": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\values-de\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 330,
-                    "endColumn": 39,
-                    "endOffset": 365
+                    "endColumn": 60,
+                    "endOffset": 346
                 },
                 "from": {
                     "file": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\values-de\\strings.xml",
@@ -88,9 +76,33 @@
                         "startLine": 6,
                         "startColumn": 4,
                         "startOffset": 249,
-                        "endColumn": 39,
-                        "endOffset": 284
+                        "endColumn": 60,
+                        "endOffset": 305
                     }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 351,
+                    "endColumn": 39,
+                    "endOffset": 386
+                },
+                "from": {
+                    "file": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\values-de\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 391,
+                    "endColumn": 39,
+                    "endOffset": 426
+                },
+                "from": {
+                    "file": "D:\\AndroidStudio\\Android-workspace\\Luek\\app\\src\\main\\res\\values-de\\strings.xml"
                 }
             }
         ]

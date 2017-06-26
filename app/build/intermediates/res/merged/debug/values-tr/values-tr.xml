@@ -2,6 +2,10 @@
 <resources>
     <string name="action_settings">Ayarlar</string>
     <string name="app_name">Lük</string>
+    <string name="finished">finished</string>
     <string name="hello_world">Hello world!</string>
     <string name="lang_tr">tr</string>
+    <string name="last_update">2014-11-17 @ 5:26 pm</string>
+    <string name="next">next</string>
+    <string name="reset">reset</string>
 </resources>

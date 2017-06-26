@@ -158,11 +158,11 @@ public final class R {
         public static final int finished=0x7f060002;
         public static final int hello_world=0x7f060003;
         public static final int lang_de=0x7f060004;
-        public static final int lang_en=0x7f060008;
-        public static final int lang_tr=0x7f060007;
-        public static final int last_update=0x7f060009;
-        public static final int next=0x7f060005;
-        public static final int reset=0x7f060006;
+        public static final int lang_en=0x7f060009;
+        public static final int lang_tr=0x7f060008;
+        public static final int last_update=0x7f060005;
+        public static final int next=0x7f060006;
+        public static final int reset=0x7f060007;
     }
     public static final class style {
         /**  API 11 theme customizations can go here. 

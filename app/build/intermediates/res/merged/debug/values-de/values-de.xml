@@ -5,6 +5,7 @@
     <string name="finished">Fertig</string>
     <string name="hello_world">Hello world!</string>
     <string name="lang_de">de</string>
+    <string name="last_update">2014-11-17 @ 5:26 pm</string>
     <string name="next">Weiter</string>
     <string name="reset">Reset</string>
 </resources>

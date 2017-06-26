@@ -1,19 +1,24 @@
 package de.zeitner.android.games.luek.listener;
 
+import android.util.Log;
 import android.view.DragEvent;
 import android.view.View;
 import android.view.View.OnDragListener;
 import android.widget.ImageButton;
+import android.widget.LinearLayout;
 import android.widget.TableLayout;
+import android.widget.TableRow;
 import android.widget.Toast;
 
 public class CardDragListener implements OnDragListener {
+    ImageButton target;
 
     @Override
     public boolean onDrag(View v, DragEvent event) {
         final ImageButton draggedImage = (ImageButton) event.getLocalState();
-        ImageButton target = (ImageButton) v;
+        target = (ImageButton) v;
         boolean result = false;
+        final String TAG = "Draginformation";
 
         int dragEvent = event.getAction();
 
@@ -24,6 +29,13 @@ public class CardDragListener implements OnDragListener {
                     result = true;
 
                     Toast.makeText(v.getContext(), "that's right", Toast.LENGTH_SHORT).show();
+                    TableRow oldParent = (TableRow) v.getParent();
+                    oldParent.removeView(v);
+                    Log.e(TAG, "vor new parent");
+                    //TableRow newParent = (TableRow) v;
+
+//                    target.setVisibility(View.GONE);
+//                    newParent.addView(v);
 //
                     draggedImage.setAlpha(0f);
 
@@ -38,7 +50,7 @@ public class CardDragListener implements OnDragListener {
 //                        }
 //                    });
 
-                    target.setVisibility(View.INVISIBLE);
+//                    target.setVisibility(View.INVISIBLE);
                     //draggedImage.setActivated(false);
                     //draggedImage.setEnabled(false);
                 } else {
@@ -46,12 +58,12 @@ public class CardDragListener implements OnDragListener {
                         result = false;
                         Toast.makeText(v.getContext(), "that's wrong", Toast.LENGTH_SHORT).show();
 
-                        draggedImage.post(new Runnable() {
-                            @Override
-                            public void run() {
-                                draggedImage.setVisibility(View.VISIBLE);
-                            }
-                        });
+//                        draggedImage.post(new Runnable() {
+//                            @Override
+//                            public void run() {
+//                                draggedImage.setVisibility(View.VISIBLE);
+//                            }
+//                        });
                     }
 //                else {
 //                    Toast.makeText(v.getContext(), "this is default", Toast.LENGTH_SHORT).show();
@@ -73,11 +85,11 @@ public class CardDragListener implements OnDragListener {
 //						@Override
 //						public void run() {
 //							draggedImage.setVisibility(View.VISIBLE);
-//						}
-//					});
                 }
-                break;
+//					});
             }
+            break;
+//            }
 //            case DragEvent.ACTION_DRAG_ENDED: {
 //                if (draggedImage != target) {
 //                    result = false;
@@ -97,6 +109,8 @@ public class CardDragListener implements OnDragListener {
                     @Override
                     public void run() {
                         draggedImage.setVisibility(View.VISIBLE);
+
+
                     }
                 });
 
